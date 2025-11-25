@@ -1,0 +1,12 @@
+10MB.txt,report_10MB.txt_w1.json,1,2900
+10MB.txt,report_10MB.txt_w2.json,2,932
+10MB.txt,report_10MB.txt_w4.json,4,664
+10MB.txt,report_10MB.txt_w8.json,8,599
+50MB.txt,report_50MB.txt_w1.json,1,6215
+50MB.txt,report_50MB.txt_w2.json,2,4114
+50MB.txt,report_50MB.txt_w4.json,4,3140
+50MB.txt,report_50MB.txt_w8.json,8,2803
+100MB.txt,report_100MB.txt_w1.json,1,12104
+100MB.txt,report_100MB.txt_w2.json,2,4463
+100MB.txt,report_100MB.txt_w4.json,4,3873
+100MB.txt,report_100MB.txt_w8.json,8,3214
